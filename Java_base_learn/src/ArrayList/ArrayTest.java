@@ -1,7 +1,7 @@
 package ArrayList;
 
 import java.util.ArrayList;
-
+//The underlying implementation is based on an array implementation
 public class ArrayTest {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<>();
